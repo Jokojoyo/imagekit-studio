@@ -1,0 +1,7 @@
+{
+  "tool": "image_gen.imagegen",
+  "generated": "2026-10-03",
+  "prompt": "Generate a full-bleed premium editorial still-life photograph used as a sample in an image-editing studio. One fresh green-yellow pear with a brown stem standing upright on a rough pale gray concrete rectangular plinth. Desaturated sage-gray textured plaster background, hard sunlight from upper left producing clear soft-edged leaf shadows on the wall and a deep shadow to the right of the plinth. Tactile pear skin with natural small brown freckles, photorealistic matte concrete. No people, letters, watermark, UI, borders or image-plane presentation. The whole pear and its stem are visible, with generous margin all around and enough of the plinth at bottom. Pear occupies 40% of frame height, centered horizontally at 53% and vertically at 56%; plinth top at 72% of frame. The leftmost photograph in the reference is the visual subject, material and lighting reference ONLY; extract its scene as a straight-on photograph, not its perspective plane. Portrait 1536 by 2048 pixels or higher resolution. A professional product-still-life with quiet cinematic light, useful for repeated crops.\n",
+  "source": "assets/plates/pear-study.png",
+  "derivation": "JPEG quality 92, mozjpeg"
+}
